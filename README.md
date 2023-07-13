@@ -1,7 +1,7 @@
-- 👋 Hi, My name is Vlad, I was born on year 93 in a small city of romania from EU. Since i Was a young kid i used to take apart things and build new ones from scratch. I feel I have a wonderful mind to explore. I just didn't not know what path to take as kid as I didn't have to many options at that time. I Finished Automotive trade school and was awarded a certificate in mechanics and technician that I never got the chance to use.
-- 👀 I’m interested in Software development as a career and I have made it my goal to become junior dev by the end of 2023. If you are asking yourself why didn't I do this when i was a kid? Well ... I am asking myself the same question.
-- 🌱 I’m currently learning C++, HTML , CSS , Javascript, Bash and navigation commands. I am open to other programing languages if can find a job to progress.
-- 💞️ I’m looking to collaborate on small projects or any job oportunity that might aid me on my career.
+- 👋 Hi, my name is VLAD.
+- 👀 Things to work on.
+- 🌱 Currently learning C++,PYTHON,HTML,CSS,JAVASCRIPT,NODE.JS.
+- 💞️ Pursuing a career as a junior dev in software development. 
 - 📫 You can reach me by : 
 - Email: vladbalteanu.work@gmail.com
 - Discord: VLAD#9297
