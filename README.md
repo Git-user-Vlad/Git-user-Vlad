@@ -1,7 +1,7 @@
 - 👋 Hi, my name is VLAD.
-- 👀 Things to work on.
-- 🌱 Currently learning C#,PYTHON,HTML,CSS,JAVASCRIPT,NODE.JS,SQL.
-- 💞️ Pursuing a career in software engineering. 
+- 👀 I have been doing my own study and projects in my own time.
+- 🌱 I am working towards a software engineer career path and I am open to new solutions.
+- 💞️ Looking for new training opportunities to expand my knowledge. 
 - 📫 You can reach me by : 
 - Email: vladbalteanu.work@gmail.com
 - Discord: VLAD#9297
